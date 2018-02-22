@@ -1,4 +1,4 @@
-# README - Example 2
+# README - Example 1
 
 ## Merge Workflow
 
