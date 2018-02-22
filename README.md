@@ -1,6 +1,6 @@
 # README
 
-Clone down [this](https://github.com/icorson3/rebase_playground) repo.
+User 1: Fork and clone down [this](https://github.com/icorson3/rebase_playground) repo. Add others as collaborators. 
 
 Simultaneously:
 
