@@ -1,4 +1,4 @@
-As a user,
+as a visitor,
 
 When I visit the student index,
 
