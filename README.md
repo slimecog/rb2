@@ -1,24 +1,81 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Merge Workflow
 
-Things you may want to cover:
+### User Story 1
 
-* Ruby version
+Check out a branch called `user_story_1_merge`.
 
-* System dependencies
+```
+As a user,
 
-* Configuration
+When I visit the student index,
 
-* Database creation
+I see a list of all students, including their name and grade.
+```
 
-* Database initialization
+### User Story 2
 
-* How to run the test suite
+Check out a branch called `user_story_2_merge`.
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+As a user,
 
-* Deployment instructions
+When I visit the student show,
 
-* ...
+I see one student, including their name and grade.
+```
+
+### User Story 3
+
+Check out a branch called `user_story_2_merge`.
+
+```
+As a user,
+
+When I visit the root page,
+
+And I click "Create New Student",
+
+I am on the new student form.
+```
+
+## Rebase Workflow
+
+### User Story 1
+
+Check out a branch called `user_story_1_rebase`.
+
+```
+As a user,
+
+When I visit the course index,
+
+I see a list of all courses, including their name and grade.
+```
+
+### User Story 2
+
+Check out a branch called `user_story_2_rebase`.
+
+```
+As a user,
+
+When I visit the course show,
+
+I see one course, including their name and grade.
+```
+
+### User Story 3
+
+Check out a branch called `user_story_2_rebase`.
+
+```
+As a user,
+
+When I visit the root page,
+
+And I click "Create New Course",
+
+I am on the new course form.
+```
